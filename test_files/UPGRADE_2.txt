@@ -1,0 +1,22 @@
+gpconcept-family-7.10
+----------------------
+- First line
+- Second line
+- Third line
+- Fourth line
+- Fifth line
+
+gpconcept-family-7.9.1
+------------
+- [FAMILY-123] Jakaś treść taska
+- [FAMILY-342] Inna treść zadania
+
+gpcontept-family-7.9.2
+------------
+- [FAMILY-111] To może być bardzo długie zadanie, ale nie powinno być łamane na dwie linie
+
+gpconcept-family-7.9
+-------------
+- No to to jest pierwszy task
+- A to będzie drugi
+- i tyle tego dobrego ;)
